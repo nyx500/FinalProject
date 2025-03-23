@@ -8,3 +8,4 @@
 - Iterative_Model_Development_Notebooks: stores different iterations of fake news detection feature engineering and model pipeleines
 - LLM_Experiments_with_Prompt_Learning: details experiments showing attempts to implement the TELLER prompt-driven fake news detection architecture (ultimately abandoned due to slow processing time)
 - News_App_Iteration_<version>: four iterations of the LIME-driven explainable fake news detection web app
+- Results_Tables: detailed results for five different classifier models
